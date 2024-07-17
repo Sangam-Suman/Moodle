@@ -1,7 +1,7 @@
-**MOODIFY: Emotion Detection Web Application**
+**MOODLE: Emotion Detection Web Application**
 
 
-Moodify analyzes text to detect emotions using a deep learning model. Users can input text and receive emotion predictions through an easy-to-use interface.
+Moodle analyzes text to detect emotions using a deep learning model. Users can input text and receive emotion predictions through an easy-to-use interface.
 
 
 **Features:**
